@@ -1,0 +1,10 @@
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\bin\Debug\WFA.MultiGame.exe.config
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\bin\Debug\WFA.MultiGame.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\bin\Debug\WFA.MultiGame.pdb
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.Form1.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.csproj.CoreCompileInputs.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.MultiGame\obj\Debug\WFA.MultiGame.pdb

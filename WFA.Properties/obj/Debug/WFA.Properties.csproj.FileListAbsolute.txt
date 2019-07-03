@@ -1,0 +1,9 @@
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\bin\Debug\WFA.Properties.exe.config
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\bin\Debug\WFA.Properties.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\bin\Debug\WFA.Properties.pdb
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\obj\Debug\WFA.Properties.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\obj\Debug\WFA.Properties.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\obj\Debug\WFA.Properties.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\obj\Debug\WFA.Properties.csproj.CoreCompileInputs.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\obj\Debug\WFA.Properties.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Properties\obj\Debug\WFA.Properties.pdb

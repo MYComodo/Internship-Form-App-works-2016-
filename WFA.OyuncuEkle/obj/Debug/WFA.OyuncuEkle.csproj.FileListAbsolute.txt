@@ -1,0 +1,15 @@
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\WFA.OyuncuEkle.exe.config
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\WFA.OyuncuEkle.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\WFA.OyuncuEkle.pdb
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\EntityFramework.dll
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\EntityFramework.xml
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.Form1.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.Form2.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.csproj.CoreCompileInputs.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.OyuncuEkle\obj\Debug\WFA.OyuncuEkle.pdb

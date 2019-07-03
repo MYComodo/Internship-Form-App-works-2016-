@@ -1,0 +1,10 @@
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\bin\Debug\WFA.LinqExamples.exe.config
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\bin\Debug\WFA.LinqExamples.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\bin\Debug\WFA.LinqExamples.pdb
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.Form1.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.exe
+C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.LinqExamples\obj\Debug\WFA.LinqExamples.pdb
