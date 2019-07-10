@@ -8,3 +8,12 @@ C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.T
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Tank\obj\Debug\WFA.Tank.csproj.CoreCompileInputs.cache
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Tank\obj\Debug\WFA.Tank.exe
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Tank\obj\Debug\WFA.Tank.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\bin\Debug\WFA.Tank.exe.config
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\obj\Debug\WFA.Tank.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\obj\Debug\WFA.Tank.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\bin\Debug\WFA.Tank.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\bin\Debug\WFA.Tank.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\obj\Debug\WFA.Tank.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\obj\Debug\WFA.Tank.Form1.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\obj\Debug\WFA.Tank.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Tank\obj\Debug\WFA.Tank.csproj.GenerateResource.Cache

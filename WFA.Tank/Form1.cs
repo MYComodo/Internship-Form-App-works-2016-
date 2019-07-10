@@ -177,6 +177,9 @@ namespace WFA.Tank
 
         private void button2_Click(object sender, EventArgs e)
         {
+            tank2.Clear();
+            dataGridView1.DataSource = null;
+            dataGridView1.Refresh();
             string ara = textBox1.Text;
 
             #region For Döngüsü İle
@@ -214,8 +217,10 @@ namespace WFA.Tank
 
             }
             
-                    dataGridView1.DataSource = null;
+                   // dataGridView1.DataSource = null;
                     dataGridView1.DataSource = tank2;
+                    dataGridView1.Refresh();
+            
            
         }
 

@@ -18,3 +18,22 @@ C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.G
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.csproj.CoreCompileInputs.cache
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.exe
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\WFA.GameSale.exe.config
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\WFA.GameSale.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\WFA.GameSale.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\EntityFramework.dll
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\EntityFramework.xml
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.frmAddGame.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.frmAdmin.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.frmLogin.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.frmPlayer.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.frmPlayerRegister.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.frmSaleGame.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.Migrations.InitialCreate.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.GameSale\obj\Debug\WFA.GameSale.pdb

@@ -8,3 +8,12 @@ C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.L
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Linq\obj\Debug\WFA.Linq.csproj.CoreCompileInputs.cache
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Linq\obj\Debug\WFA.Linq.exe
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.Linq\obj\Debug\WFA.Linq.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\bin\Debug\WFA.Linq.exe.config
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\bin\Debug\WFA.Linq.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\bin\Debug\WFA.Linq.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\obj\Debug\WFA.Linq.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\obj\Debug\WFA.Linq.Form1.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\obj\Debug\WFA.Linq.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\obj\Debug\WFA.Linq.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\obj\Debug\WFA.Linq.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.Linq\obj\Debug\WFA.Linq.pdb

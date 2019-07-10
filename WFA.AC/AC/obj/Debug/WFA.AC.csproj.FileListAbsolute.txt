@@ -8,3 +8,12 @@ C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.A
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.AC\AC\obj\Debug\WFA.AC.csproj.CoreCompileInputs.cache
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.AC\AC\obj\Debug\AC.exe
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.AC\AC\obj\Debug\AC.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\bin\Debug\AC.exe.config
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\bin\Debug\AC.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\bin\Debug\AC.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\obj\Debug\WFA.AC.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\obj\Debug\AC.Form1.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\obj\Debug\AC.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\obj\Debug\WFA.AC.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\obj\Debug\AC.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.AC\AC\obj\Debug\AC.pdb

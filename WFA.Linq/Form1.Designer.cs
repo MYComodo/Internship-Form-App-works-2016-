@@ -42,7 +42,7 @@
             this.dgvPlayers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvPlayers.Location = new System.Drawing.Point(1, 35);
             this.dgvPlayers.Name = "dgvPlayers";
-            this.dgvPlayers.Size = new System.Drawing.Size(366, 218);
+            this.dgvPlayers.Size = new System.Drawing.Size(321, 265);
             this.dgvPlayers.TabIndex = 0;
             this.dgvPlayers.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPlayers_CellContentClick);
             // 
@@ -67,7 +67,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(369, 252);
+            this.ClientSize = new System.Drawing.Size(324, 299);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNickName);
             this.Controls.Add(this.dgvPlayers);

@@ -18,3 +18,22 @@ C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.D
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.csproj.CoreCompileInputs.cache
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.exe
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\WFA.DestructorGames.exe.config
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\WFA.DestructorGames.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\WFA.DestructorGames.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\EntityFramework.dll
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\EntityFramework.xml
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.BaseForm.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.frmAddGame.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.frmAddPlayer.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.frmLogin.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.frmMain.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.frmSale.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.frmUpdatePlayer.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.DestructorGames\obj\Debug\WFA.DestructorGames.pdb

@@ -12,3 +12,16 @@ C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.S
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.csproj.CoreCompileInputs.cache
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.exe
 C:\Users\Muhammd\Desktop\Kütüphane\Staj\Staj Arnavutköy Belediyesi\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\WFA.SqlWriteExample.exe.config
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\WFA.SqlWriteExample.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\WFA.SqlWriteExample.pdb
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\EntityFramework.dll
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\EntityFramework.xml
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.csprojResolveAssemblyReference.cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.FormCategoryProcess.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.Properties.Resources.resources
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.csproj.GenerateResource.Cache
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.exe
+C:\Users\Muhammd\Desktop\Programlama\GitProjects\Staj\WFA.SqlWriteExample\obj\Debug\WFA.SqlWriteExample.pdb
